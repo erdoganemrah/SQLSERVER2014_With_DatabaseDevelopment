@@ -78,5 +78,6 @@
     <Build Include="16_MERGE.sql" />
     <Build Include="17_System View ve Procedure.sql" />
     <Build Include="18_View.sql" />
+    <Build Include="19_Function.sql" />
   </ItemGroup>
 </Project>
