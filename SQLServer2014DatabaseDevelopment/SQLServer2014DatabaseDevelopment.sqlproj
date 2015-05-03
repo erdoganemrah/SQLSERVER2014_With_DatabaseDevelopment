@@ -77,5 +77,6 @@
     <Build Include="15_AggregateWindow_Func.sql" />
     <Build Include="16_MERGE.sql" />
     <Build Include="17_System View ve Procedure.sql" />
+    <Build Include="18_View.sql" />
   </ItemGroup>
 </Project>
